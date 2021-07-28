@@ -42,7 +42,11 @@ MANUAL
 
 15. Customize your text and place it where you want it to be.
 
-16. Last-step-finishing time for our inventory system ! You may now, before etablishing ScriptableObjects :
+16. Add a script to your player named "PlayerEffects".
+
+17. Copy & Paste code into, and change player in player.instance to the name of your script that handles the moving system of your playable character.
+
+18. Last-step-finishing time for our inventory system ! You may now, before etablishing ScriptableObjects :
     - anchor all your objects (buttons and text) to where these are located : Anchor it to bottom left if your inventory stuff is located at the bottom left, top right for top-right-located UIs...
 
     - Add the missing references of your scripts.
