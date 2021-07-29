@@ -6,6 +6,16 @@ This inventory system will be composed visually by a box containing the image of
 MANUAL
 -------------
 
+-----------------------
+Scriptable Objects :
+
+1. Create a new script "Item" and open it.
+
+2. Add the repo's code in it.
+
+3. Return to Unity. To make your scriptable objects, the path is Assets/Create/Inventory/Item.
+-------------------
+
 1. Add a new Empty to your scene named "Inventory"
 
 2. Add a script component to Inventory.
@@ -50,12 +60,3 @@ MANUAL
     - anchor all your objects (buttons and text) to where these are located : Anchor it to bottom left if your inventory stuff is located at the bottom left, top right for top-right-located UIs...
 
     - Add the missing references of your scripts.
-
------------------------
-Scriptable Objects :
-
-1. Create a new script "Item" and open it.
-
-2. Add the repo's code in it.
-
-3. Return to Unity. To make your scriptable objects, the path is Assets/Create/Inventory/Item.
